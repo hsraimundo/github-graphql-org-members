@@ -1,0 +1,8 @@
+{
+  "github": {
+    "graphql": {
+      "url": "https://api.github.com/graphql",
+      "pagesize": 100
+    }
+  }
+}
